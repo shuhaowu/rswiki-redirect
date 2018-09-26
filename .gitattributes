@@ -1,0 +1,4 @@
+Makefile export-ignore
+.gitattributes export-ignore
+README.md export-ignore
+.gitignore export-ignore
