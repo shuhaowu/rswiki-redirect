@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Runescape Wikia Redirect",
-  "version": "1.0",
+  "version": "1.1",
 
   "description": "Redirects the runescape wikia to the new runescape.wiki",
   "content_scripts": [

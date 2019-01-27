@@ -1,10 +1,13 @@
 const OSRS_WIKIA_HOSTNAMES = [
   "oldschoolrunescape.wikia.com",
   "2007scape.wikia.com",
+  "oldschoolrunescape.fandom.com",
+  "2007scape.fandom.com",
 ];
 
 const RS3_WIKIA_HOSTNAMES = [
   "runescape.wikia.com",
+  "runescape.fandom.com",
 ];
 
 const OSRS_WIKI_HOSTNAME = "oldschool.runescape.wiki";
